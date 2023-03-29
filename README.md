@@ -2,6 +2,7 @@
 A simple python script for analyzing temperature from spreadsheets.
 ## Setup
 Requires Python X
+
 Requires pandas to be installed
 ## Features
 Function mean_temperatures analyzes the mean temperature of a pandas dataframe.
